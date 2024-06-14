@@ -1,1 +1,1 @@
-# practice-bsuir
+# BSUIR summer practice at Modsen.
