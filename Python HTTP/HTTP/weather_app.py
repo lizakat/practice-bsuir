@@ -9,7 +9,7 @@ BASE_URL = 'http://api.openweathermap.org/data/2.5/weather'
 
 @app.route('/weather', methods=['GET'])
 def get_weather():
-    city_id = request.args.get('city')
+    city_id = request.args.get('city_id')
 
     if not city_id:
         return jsonify({'error': 'City parameter is required'}), 400
