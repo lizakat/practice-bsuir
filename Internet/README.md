@@ -1,2 +1,1 @@
-
-(https://github.com/lizakat/practice-bsuir/blob/main/Internet/Values%20in%20Cookie.png)
+![image](https://github.com/lizakat/practice-bsuir/assets/91129112/b8f1665f-2d9e-482f-9007-f5ba6032bce2)
